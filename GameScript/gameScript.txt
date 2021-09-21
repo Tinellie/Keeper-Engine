@@ -1,0 +1,9 @@
+{
+	say "test";
+	if
+	{
+		say "test2 \" test";
+	};
+}
+		rawScript	say \"\";if {say \"\" test\"
+
